@@ -1,6 +1,9 @@
 # Termux
 .termux/
 
+# 安装目录（运行数据）
+.newapi-termux/
+
 # 编译产物
 *.o
 *.so
