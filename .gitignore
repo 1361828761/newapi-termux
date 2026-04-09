@@ -1,0 +1,25 @@
+# Termux
+.termux/
+
+# 编译产物
+*.o
+*.so
+*.a
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# 环境变量
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
